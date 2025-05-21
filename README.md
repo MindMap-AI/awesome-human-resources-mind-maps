@@ -1,4 +1,4 @@
-# Awesome Human Resources Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Human Resources Mind Maps](https://mindmapai.app/mind-maps/human-resources) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Optimize HR operations with project management and mind maps AI to streamline recruitment, employee development, and performance tracking. Mind maps AI helps Human Resources visualize talent strategies, align goals, and cultivate a thriving workplace culture efficiently.
 
